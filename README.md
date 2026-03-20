@@ -1,4 +1,5 @@
 # Mental Health and Burnout in the Workplace: A Data Analysis of Employee Well-Being
+### A Cross-Country Analysis of Mental Health and Productivity Factors
 
 ## Overview
 
@@ -8,9 +9,9 @@ This project analyzes workplace burnout across 3,000 employees in 7 countries to
 
 **Dataset:** [Mental Health & Burnout in the Workplace](https://www.kaggle.com/datasets/khushikyad001/mental-health-and-burnout-in-the-workplace) (Kaggle)
 
-📊 **[View Interactive Dashboard on Tableau Public](#)** *(link to be added)*
+📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/burnout_tableau_file/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Dashboard Screenshot](visualizations/dashboard_screenshot.png)
+<img width="1499" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/07e148fe-8769-415c-9600-e66188764570" />
 
 ---
 
@@ -131,7 +132,6 @@ ORDER BY avg_burnout DESC;
 ---
 
 ## Repository Structure
-
 ```
 workplace-burnout-analysis/
 ├── sql/
@@ -143,10 +143,9 @@ workplace-burnout-analysis/
 │   └── 06_export_for_tableau.sql
 ├── script/
 │   └── import_data.py
+│   └── check_null.py
 ├── data_raw/
 │   └── burnout_data.csv
-├── data_clean/
-│   └── (cleaned exports)
 ├── visualizations/
 │   └── dashboard_screenshot.png
 └── README.md

@@ -134,6 +134,11 @@ ORDER BY avg_burnout DESC;
 ## Repository Structure
 ```
 workplace-burnout-analysis/
+├── data_raw/
+│   └── burnout_data.csv
+├── script/
+│   └── import_data.py
+│   └── check_null.py
 ├── sql/
 │   ├── 01_data_quality_check.sql
 │   ├── 02_data_cleaning.sql
@@ -141,11 +146,6 @@ workplace-burnout-analysis/
 │   ├── 04_demographic_analysis.sql
 │   ├── 05_workplace_analysis.sql
 │   └── 06_export_for_tableau.sql
-├── script/
-│   └── import_data.py
-│   └── check_null.py
-├── data_raw/
-│   └── burnout_data.csv
 ├── visualizations/
 │   └── dashboard_screenshot.png
 └── README.md

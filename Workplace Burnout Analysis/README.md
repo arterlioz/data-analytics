@@ -1,4 +1,4 @@
-# Mental Health and Burnout in the Workplace: A Data Analysis of Employee Well-Being
+# Mental Health and Burnout in the Workplace: A Data Analysis of Employee Wellbeing
 ### A Cross-Country Analysis of Mental Health and Productivity Factors
 
 ## Overview
@@ -44,16 +44,16 @@ Analysis progressed from descriptive statistics through interaction effects:
 
 1. **Country-level profiling** — Multi-metric comparison across 7 countries
 2. **Demographic analysis** — Age, gender, and education patterns
-3. **Interaction effects** — Gender × Remote Work, Gender × Manager Support
-4. **Extreme case analysis** — Top 10% vs Bottom 10% burnout profiling across 15+ dimensions
-5. **Workplace factor combinations** — Hours × Support, Benefits access vs utilization
+3. **Workplace factors analysis** — team size, manager support, and mental health support patterns
+4. **Interaction effects** — Gender × Remote Work, Gender × Manager Support
+5. **Workplace factor combinations** — Hours × Support, Benefits access vs utilization, Hours x Remote Work
+6. **Extreme case profiling** - compared top 10% (thriving) vs bottom 10% (struggling) on demographics, workplace factors, and wellbeing indicators to identify differentiators. 
 
 ### Tableau Visualization
 Single-page dashboard with progressive disclosure:
-- **Context layer:** KPI cards, burnout distribution histogram, country heat map
+- **Context layer:** KPI cards, country heat map
 - **Exploration layer:** Work hours vs burnout scatter plot (3,000 jittered data points)
 - **Insight layer:** Gender × Remote Work and Gender × Manager Support line charts
-- **Action layer:** Recommendations text
 
 ---
 
@@ -161,9 +161,3 @@ workplace-burnout-analysis/
 | **Tableau** | 7 chart types (KPI cards, histogram, scatter plot, heat map, line charts, grouped bars), calculated fields, jitter technique, separate legends, dashboard layout |
 | **Analysis** | Interaction effects, extreme case profiling, variance analysis, hypothesis testing through exploration, negative finding documentation |
 | **Communication** | Insight-driven chart titles, progressive disclosure dashboard structure, actionable recommendations tied to findings |
-
----
-
-## Author
-
-**Amber** · [GitHub](https://github.com/arterlioz)

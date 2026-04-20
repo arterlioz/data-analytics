@@ -13,6 +13,6 @@ Hi, I'm Amber — a healthcare data analyst with 3+ years at a B2B SaaS platform
 📍 New York City  <br>
 🎓 Biochemistry (minor in Neuroscience)  <br>
 💼 Experience: B2B SaaS analytics for pharma and biotech clients   <br>
+🎧 Currently: building out this portfolio + exploring product analytics   <br>
 📫 [GitHub](https://github.com/arterlioz) · [LinkedIn](https://www.linkedin.com/in/amberhho/)
-🎧 Currently: building out this portfolio + exploring product analytics
 

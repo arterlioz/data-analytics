@@ -136,7 +136,7 @@ ORDER BY avg_burnout DESC;
 workplace-burnout-analysis/
 ├── data_raw/
 │   └── burnout_data.csv
-├── script/
+├── scripts/
 │   └── import_data.py
 │   └── check_null.py
 ├── sql/

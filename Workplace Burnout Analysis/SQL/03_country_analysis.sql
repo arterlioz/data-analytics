@@ -1,5 +1,5 @@
 
--- Avgerage Burnout Level by Country
+-- Average Burnout Level by Country
 
 SELECT
     country,

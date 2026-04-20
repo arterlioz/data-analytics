@@ -143,7 +143,7 @@ workplace-burnout-analysis/
 │   ├── 01_data_quality_check.sql
 │   ├── 02_data_cleaning.sql
 │   ├── 03_country_analysis.sql
-│   ├── 04_demographic_analysis.sql
+│   ├── 04_demographic_workplace_analysis
 │   ├── 05_workplace_analysis.sql
 │   └── 06_export_for_tableau.sql
 ├── visualizations/
